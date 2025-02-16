@@ -1,3 +1,3 @@
 # happy-birthday
 Happy Birthday Website made using Html, css and JavaScript
-<a href="https://hoanghuyduc.com/happy-birthday-me" target="blank">Click Here</a>
+<a href="https://hoanghuyduc.com/happybirthdayme" target="blank">Click Here</a>
